@@ -7,6 +7,7 @@ My Solution and code details-
 I have used neural word embeddings, paragraph vector and some sort of feature engineering for dense representation of every example/document for classification and regression.
 
 4 scripts and details-
+
 1.] Hack_W2vec.py file runs word2vec(skip-gram model) algorithm and gives word representation for all words including train and test data's summary information.
 
 2.] DBOW.py file runs doc2vec(Dbow model) algorithm to get document level representation for all documnet's summary of both train and test data.
